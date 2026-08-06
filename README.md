@@ -7,6 +7,7 @@ Kullanıcının tanımladığı problemi TRIZ araçlarıyla sistematik biçimde 
 ## Problem
 
 TRIZ; Çelişki Matrisi, 40 Buluş İlkesi, İdeallik Analizi ve patent etrafından dolaşma gibi farklı araçlardan oluşmaktadır. Ancak kullanıcıların doğru aracı seçmesi, teknik çelişkiyi uygun parametrelerle ifade etmesi ve genel TRIZ ilkelerini kendi problemine uyarlaması zor olabilir.
+
 Bu uygulama yalnızca TRIZ kavramlarını açıklamak yerine kullanıcıdan problem hakkında bilgi alır, bu bilgileri seçilen TRIZ araçlarıyla işler ve probleme yönelik teknik çözüm taslakları üretir.
 
 ## Uygulama
@@ -29,6 +30,7 @@ Tamamlanan analizler "Çözüm Dosyası" bölümünde birleştirilerek Markdown 
 ### Çelişki analizi
 
 İyileştirilen ve kötüleşen TRIZ parametreleri eşleştirilir. Seçilen çift uygulamanın bilgi tabanında bulunuyorsa tanımlı Çelişki Matrisi hücresi kullanılır. Doğrudan tanımlı olmayan çiftlerde kategori tabanlı bağlamsal eşleştirme yapılır.
+
 Önerilen buluş ilkeleri, kullanıcının problem açıklaması ve seçtiği uygulama alanı dikkate alınarak somut teknik değişikliklere dönüştürülür.
 
 ### İdeallik analizi
@@ -77,6 +79,7 @@ Modüllerin tamamını kullanmak zorunlu değildir. Kullanıcı problemine uygun
 ## Proje
 
 TOBB ETÜ lisans programı kapsamında, kullanıcıların TRIZ yöntemlerini daha kolay ve sistematik biçimde uygulayabilmesi amacıyla geliştirilmiş eğitim ve teknik fikir üretme prototipidir.
+
 Uygulama, TRIZ araçlarını yalnızca açıklamak yerine kullanıcı girdilerini analiz ederek probleme özel dönüşüm ilkeleri ve alternatif teknik çözüm taslakları üretmektedir.
 
 ## İlgili Kaynaklar
